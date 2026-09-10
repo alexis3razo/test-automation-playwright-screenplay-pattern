@@ -1,0 +1,30 @@
+{
+  "name": "test-automation-playwright-screenplay-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.2"
+  },
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexis3razo/test-automation-playwright-screenplay-pattern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alexis3razo/test-automation-playwright-screenplay-pattern/issues"
+  },
+  "homepage": "https://github.com/alexis3razo/test-automation-playwright-screenplay-pattern#readme",
+  "dependencies": {
+    "playwright": "^1.63.0"
+  }
+}
