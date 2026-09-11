@@ -1,0 +1,7 @@
+testCaseId,username,expectedResult
+TC01,standard_user,success
+TC02,locked_out_user,failure
+TC03,problem_user,success
+TC04,performance_glitch_user,success
+TC05,error_user,success
+TC06,visual_user,success
